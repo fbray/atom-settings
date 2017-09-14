@@ -1,0 +1,27 @@
+"*":
+  core:
+    automaticallyUpdate: false
+    openEmptyEditorOnStart: false
+    telemetryConsent: "limited"
+  drupal:
+    fileTypesPhp: "module,install,inc,test,theme"
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "11d24687-3ce9-f585-ede7-a6cdfb89b8c1"
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 69
+    showPanel: true
+  "symbols-tree-view": {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    keepMarkdownLineBreakWhitespace: false
+".drupal.source":
+  editor:
+    showIndentGuide: false

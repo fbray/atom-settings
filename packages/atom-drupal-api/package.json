@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+        "spec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/apm-install-dir-116108-71373-1fsru1v"
+    ]
+  ],
+  "_from": "../d-116108-71373-1nyjhuf/package.tgz",
+  "_id": "atom-drupal-api@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-drupal-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+    "spec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116108-71373-1nyjhuf/package.tgz",
+  "_shasum": "cba7575dbee5b103184ff439ff39177c3bb9c5c4",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-116108-71373-1nyjhuf/package.tgz",
+  "_where": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/apm-install-dir-116108-71373-1fsru1v",
+  "activationCommands": {
+    "atom-workspace": "atom-drupal-api:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/b-connect/atom-drupal-api/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0",
+    "space-pen": "^5.1.1"
+  },
+  "description": "Add integration for drupal api docs",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/b-connect/atom-drupal-api#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/atom-drupal-api",
+  "name": "atom-drupal-api",
+  "optionalDependencies": {},
+  "readme": "# atom-drupal-api package\n\nA short description of your package.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-connect/atom-drupal-api.git"
+  },
+  "version": "1.0.1"
+}

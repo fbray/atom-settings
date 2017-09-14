@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+        "spec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/apm-install-dir-1161119-20151-14eoi8j"
+    ]
+  ],
+  "_from": "../d-1161119-20151-f496or/package.tgz",
+  "_id": "drupal@1.9.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/drupal",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+    "spec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1161119-20151-f496or/package.tgz",
+  "_shasum": "98a83515ea48faed847927001940f09200d0db60",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/d-1161119-20151-f496or/package.tgz",
+  "_where": "/private/var/folders/55/5qwz8t4107g5hy3_5_lwt4v80000gp/T/apm-install-dir-1161119-20151-14eoi8j",
+  "bugs": {
+    "url": "https://github.com/FavishInc/atom-drupal/issues"
+  },
+  "dependencies": {},
+  "description": "Drupal snippets, filetypes and hotkeys",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/FavishInc/atom-drupal#readme",
+  "license": "MIT",
+  "main": "./lib/drupal",
+  "name": "drupal",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "# Drupal\n\nA starter Drupal package for the Atom editor from the lovely folks at Github.\n\nPlease create issues and pull requests for more snippets and features.\n\nTODO\n====\n* More snippets (drupal_hooks, module stubs, etc)\n* Keybinding to activate Drupal.org on hook lookups\n* Syntax highlighting for druaplisms and code style\n* Use the path to establish context and enable drush commands\n  * `drush eval` of highlighted text\n  * `drush vget` and `drush vset`\n  * `drush dl` right from the editor\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FavishInc/atom-drupal.git"
+  },
+  "version": "1.9.0"
+}
