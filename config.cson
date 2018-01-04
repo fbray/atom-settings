@@ -1,10 +1,11 @@
 "*":
+  "atom-autocomplete-php": {}
   core:
     automaticallyUpdate: false
     openEmptyEditorOnStart: false
     telemetryConsent: "limited"
   drupal:
-    fileTypesPhp: "module,install,inc,test,theme"
+    fileTypesPhp: "module,install,inc,test,theme,view"
   editor:
     invisibles: {}
     showIndentGuide: true

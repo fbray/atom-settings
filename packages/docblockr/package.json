@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
+        "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
-        "spec": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
+        "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
+        "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
         "type": "local"
       },
-      "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\apm-install-dir-117117-12480-1y73ctk.jc13t2zkt9"
+      "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-11802-3729-153ddpa.oumq3vunmi"
     ]
   ],
-  "_from": "..\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
-  "_id": "docblockr@0.13.3",
+  "_from": "../d-11802-3729-73zhod.ifeeidx6r/package.tgz",
+  "_id": "docblockr@0.13.4",
   "_inCache": true,
   "_location": "/docblockr",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
+    "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
-    "spec": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
+    "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
+    "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
-  "_shasum": "4c31334a3f41e647bf54718beaba684e72ea6f83",
+  "_resolved": "file:../d-11802-3729-73zhod.ifeeidx6r/package.tgz",
+  "_shasum": "2ea107454e1a0ddc4fb2b881cac59e8a0f37d9f2",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\d-117117-12480-qsoj82.isnka9k9\\package.tgz",
-  "_where": "C:\\Users\\FBRAY\\AppData\\Local\\Temp\\apm-install-dir-117117-12480-1y73ctk.jc13t2zkt9",
+  "_spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11802-3729-73zhod.ifeeidx6r/package.tgz",
+  "_where": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-11802-3729-153ddpa.oumq3vunmi",
   "atomTestRunner": "./spec/runner",
   "bugs": {
     "url": "https://github.com/nikhilkalige/docblockr/issues"
@@ -74,5 +74,5 @@
     "lint": "eslint ./",
     "test": "cd ~/.atom/packages; atom --test docblockr/spec"
   },
-  "version": "0.13.3"
+  "version": "0.13.4"
 }
