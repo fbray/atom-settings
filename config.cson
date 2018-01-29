@@ -3,6 +3,7 @@
   core:
     automaticallyUpdate: false
     openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: []
     telemetryConsent: "limited"
   drupal:
     fileTypesPhp: "module,install,inc,test,theme,view"
@@ -13,10 +14,15 @@
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "11d24687-3ce9-f585-ede7-a6cdfb89b8c1"
+  github:
+    viewChangesForCurrentFileDiffPaneSplitDirection: "right"
   linter: {}
   "linter-ui-default":
     panelHeight: 69
     showPanel: true
+  "markdown-image-assistant":
+    prependTargetFileName: false
+    preserveOrigName: true
   "symbols-tree-view": {}
   "tree-view": {}
   welcome:
@@ -26,3 +32,6 @@
 ".drupal.source":
   editor:
     showIndentGuide: false
+".gfm.source":
+  editor:
+    tabLength: 4

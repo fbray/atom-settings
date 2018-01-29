@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+        "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118017-4577-4zldl6.9hhf5n4s4i"
+    ]
+  ],
+  "_from": "../d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+  "_id": "markdown-image-assistant@0.2.0",
+  "_inCache": true,
+  "_location": "/markdown-image-assistant",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+    "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+  "_shasum": "55298efcf76e36952ba6aabc6a7f0cbdf8255bd4",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118017-4577-1bykj7v.0oy19hehfr/package.tgz",
+  "_where": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118017-4577-4zldl6.9hhf5n4s4i",
+  "bugs": {
+    "url": "https://github.com/tlnagy/atom-markdown-image-assistant/issues"
+  },
+  "dependencies": {},
+  "description": "Add sane drag and drop and copy/paste support for images to markdown files",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/tlnagy/atom-markdown-image-assistant#readme",
+  "keywords": [
+    "markdown",
+    "drag",
+    "drop",
+    "image",
+    "embed",
+    "copy",
+    "paste"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "markdown-image-assistant",
+  "optionalDependencies": {},
+  "readme": "# [atom-markdown-image-assistant](https://atom.io/packages/markdown-image-assistant)\n\nAdd sane drag and drop and copy/paste support for images to markdown\nfiles. This is especially useful for notetaking in Atom.\n\n![](https://cloud.githubusercontent.com/assets/1661487/19503385/137f1da6-9568-11e6-9796-910e6927459d.gif)\n\n## Atom Settings\n\nThese settings can be accessed under Settings -> Packages -> Markdown\nImage Assistant.\n\n### Default Settings\n\nWhenever an image is dragged and dropped or copy and pasted on an open markdown file, this package automatically copies it to an `assets/` folder in the current directory, renames the image, and inserts a relative link to the image.\n\n### Active file types\n\nFile type that image assistant should activate for\n\n### Image directory\n\nDefault image directory\n\n### Preserve original file names\n\nWhen dragging and dropping files, whether to preserve original file names when copying over into the image directory\n\n### Use the Markdown filename\n\nCreates an asset folder in the form of `<fileroot>.assets/`.  Where\n`<fileroot>` is the root of the file without the supported Markdown extensions (`.markdown`, `.md`, `.mdown`, `.mkd`, `.mkdow`).\n\n\n### Insert image as Markup, instead of Markdown\n\nInsert an image as HTML Markup, `<img src=''>`, instead of Markdown, `![]()`.  Useful if you want to adjust image `width` or `height`\n\n-----\n\n\n## Installation\n\nThis plugin can be installed via Atom's GUI or via the command line:\n\n```\napm install markdown-image-assistant\n```\n\n\n### Demo\n* My Cat folder name\n```\n![](CAT-assets/README-684b45a8.jpg)\n```\n\n* Markup\n```\n<img alt=\"README-684b45a8.jpg\" src=\"assets/README-684b45a8.jpg\" width=\"\" height=\"\" >\n```\n* Per-file asset directory\n```\n![](README.assets/README-684b45a8.jpg)\n```\n\n* Preserve Original filename\n```\n![](README.assets/README-Fort-*ssHole.jpg)\n```\n\n-----\n![atom-image-assistant](https://cloud.githubusercontent.com/assets/118112/24306827/2db2494a-107f-11e7-969a-2581851aa816.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlnagy/atom-markdown-image-assistant.git"
+  },
+  "version": "0.2.0"
+}
