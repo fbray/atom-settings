@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
+        "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
-        "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
+        "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
+        "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118022-87067-1dkhjld.7z01x20529"
+      "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118126-27782-19ek0cw.stm4pldi"
     ]
   ],
-  "_from": "../d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
-  "_id": "docblockr@0.13.6",
+  "_from": "../d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
+  "_id": "docblockr@0.13.7",
   "_inCache": true,
   "_location": "/docblockr",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
+    "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
-    "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
+    "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
+    "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
-  "_shasum": "ae151dfe57998f0d24f1706ca35d9101209edcac",
+  "_resolved": "file:../d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
+  "_shasum": "8b923e92244b0c29ec3b8e45c17c5c8bae6d43f7",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118022-87067-yhtg7j.syrrg4x6r/package.tgz",
-  "_where": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118022-87067-1dkhjld.7z01x20529",
+  "_spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118126-27782-1pky4ne.ujyb162yb9/package.tgz",
+  "_where": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118126-27782-19ek0cw.stm4pldi",
   "atomTestRunner": "./spec/runner",
   "bugs": {
     "url": "https://github.com/nikhilkalige/docblockr/issues"
@@ -74,5 +74,5 @@
     "lint": "eslint ./",
     "test": "cd ~/.atom/packages; atom --test docblockr/spec"
   },
-  "version": "0.13.6"
+  "version": "0.13.7"
 }

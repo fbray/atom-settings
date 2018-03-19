@@ -18,11 +18,12 @@
     viewChangesForCurrentFileDiffPaneSplitDirection: "right"
   linter: {}
   "linter-ui-default":
-    panelHeight: 69
+    panelHeight: 172
     showPanel: true
   "markdown-image-assistant":
     prependTargetFileName: false
     preserveOrigName: true
+  "split-diff": {}
   "symbols-tree-view": {}
   "tree-view": {}
   welcome:
