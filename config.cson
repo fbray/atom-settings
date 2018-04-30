@@ -2,6 +2,9 @@
   "atom-autocomplete-php": {}
   core:
     automaticallyUpdate: false
+    disabledPackages: [
+      "markdown-image-assistant"
+    ]
     openEmptyEditorOnStart: false
     packagesWithKeymapsDisabled: []
     telemetryConsent: "limited"
@@ -17,9 +20,11 @@
   github:
     viewChangesForCurrentFileDiffPaneSplitDirection: "right"
   linter: {}
+  "linter-drupalcs":
+    autoConfigSearch: false
+    ignore: "*.tpl.php"
   "linter-ui-default":
-    panelHeight: 172
-    showPanel: true
+    panelHeight: 187
   "markdown-image-assistant":
     prependTargetFileName: false
     preserveOrigName: true
