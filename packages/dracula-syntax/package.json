@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
+        "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
-        "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
+        "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
+        "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-11819-2379-1bhkfgr.81mqk9be29"
+      "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118414-1950-1z0lguv.nwvz6nipb9"
     ]
   ],
-  "_from": "../d-11819-2379-3il75c.05zecgcik9/package.tgz",
-  "_id": "dracula-syntax@2.0.6",
+  "_from": "../d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
+  "_id": "dracula-syntax@2.0.7",
   "_inCache": true,
   "_location": "/dracula-syntax",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
+    "raw": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
-    "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
+    "rawSpec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
+    "spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-11819-2379-3il75c.05zecgcik9/package.tgz",
-  "_shasum": "d45b9c4db9ca8b30209d0bd462f3f071cdfe2e68",
+  "_resolved": "file:../d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
+  "_shasum": "bf16587e0fdd1c861f1af547cceee1e0e6a482f1",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-11819-2379-3il75c.05zecgcik9/package.tgz",
-  "_where": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-11819-2379-1bhkfgr.81mqk9be29",
+  "_spec": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/d-118414-1950-3hr6ft.e3wo0tfbt9/package.tgz",
+  "_where": "/private/var/folders/mj/3qrft3j1203b_4_yk1c1tjl40000gn/T/apm-install-dir-118414-1950-1z0lguv.nwvz6nipb9",
   "bugs": {
     "url": "https://github.com/dracula/atom/issues"
   },
@@ -55,5 +55,5 @@
     "url": "git+https://github.com/dracula/atom.git"
   },
   "theme": "syntax",
-  "version": "2.0.6"
+  "version": "2.0.7"
 }
